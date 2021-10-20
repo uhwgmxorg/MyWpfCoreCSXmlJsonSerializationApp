@@ -58,9 +58,9 @@ namespace MyWpfCoreCSXmlJsonSerializationApp
             Button_1.ToolTip = "Button #1: reload the default list";
             Button_2.ToolTip = "Button #2: clear the list";
             Button_3.ToolTip = "Button #3: save the list/classes to Xml";
-            Button_4.ToolTip = "Button #4: save the list/classes to Jason";
+            Button_4.ToolTip = "Button #4: save the list/classes to Json";
             Button_5.ToolTip = "Button #5: load the list from Xml";
-            Button_6.ToolTip = "Button #6: load the list from Jason";
+            Button_6.ToolTip = "Button #6: load the list from Json";
             Button_7.ToolTip = "Button #7: save just one single class to CDatas.json/CDatas.xml";
         }
 
